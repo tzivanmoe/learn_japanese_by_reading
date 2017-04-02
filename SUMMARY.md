@@ -1,7 +1,7 @@
 # Summary
 
-* [介绍](README.md)
-* [方法和工具](chapter1.md)
+* [教材的弊端](README.md)
+* [学习方法和工具](chapter1.md)
   * [没有计划没有鞭策的日语学习经历\]](chapter1/mei-you-ji-hua-mei-you-bian-ce-de-ri-yu-xue-xi-jing-53865d28-c1s1-md.md)
 * [假名与五十音图](jia-ming-yu-wu-shi-yin-tu.md)
   * [3个月从零到N2，抛开应试教育的日语学习方法](jia-ming-yu-wu-shi-yin-tu/3ge-yue-cong-ling-dao-n2-ff0c-pao-kai-ying-shi-jiao-yu-de-ri-yu-xue-xi-fang-fa.md)

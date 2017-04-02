@@ -1,3 +1,4 @@
-# My Awesome Book
+无论是新标日、大家的日语还是新编日语，都是严重脱离实际应用的，也就是脱离循序渐进的学习逻辑的，充当的是教师教学参考资料这样的角色，是给老师用的，而不是给学生看的。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这本手册是给日语学习者看的。
+
