@@ -1,12 +1,12 @@
 # 必备工具
 
-**梯子：**有了梯子才能解锁各种网站。几个显而易见的优点是，可以用 Line Twitter 等和日本人聊天，在日本亚马逊购买书籍和漫画，玩日服的游戏。
+**梯子：**有了梯子才能解锁各种网站。几个显而易见的优点是，可以用 Line Twitter 等和日本人聊天，在日本亚马逊购买书籍和漫画，玩日服的游戏，还有追星。
 
 搜索引擎：[雅虎日本](https://www.yahoo.co.jp/)、谷歌。
 
 输入法：正版Windows添加输入法即可，或者用谷歌日语输入法
 
-声调词典：[OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/chi/pages/home)
+声调词典：[OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/chi/pages/home) 比大部分老师的发音要可靠
 
 个人认为最好的在线词典：[jisho](http://jisho.org/)，在下一篇有具体介绍
 
@@ -20,15 +20,11 @@ Chrome、Firefox浏览器划词翻译插件：[rikaikun](https://chrome.google.c
 
 写日记练习：[lang-8](http://www.lang-8.com/)
 
-
-
 # 你可能需要的
 
-菜谱 APP：ぺこり，看着就有食欲，这 APP 设计无敌了。
+菜谱 APP：ぺこり，看着就有食欲，每天会推荐一个人人都能上手的美食或甜点。这 APP 设计也是无敌了。
 
-
-
-
+![](/assets/1096561190.jpg)
 
 
 
