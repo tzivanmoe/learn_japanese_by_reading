@@ -27,7 +27,7 @@
   * [日语通用名词的用法:こと　ところ　方](grammar/noun.md)
   * [六种情感：可能 意志 命令 使役 被动](grammar/six_yuju.md)
   * [只此一家别无分店：日语中的cp](grammar/cp.md)
-  * [数字 日期 时间段 量词](number-date.md)  
+  * [数字 日期 时间段 量词](number-date.md)
 * [辅助资料](fu-zhu-zi-liao.md)
   * [日语阅读资料：lang-8 值得关注的人](fu-zhu-zi-liao/lang8.md)
   * [双语字幕日剧推荐](fu-zhu-zi-liao/dorama.md)
