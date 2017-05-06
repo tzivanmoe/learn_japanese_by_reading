@@ -29,6 +29,7 @@
   * [只此一家别无分店：日语中的cp](grammar/cp.md)
   * [数字 日期 时间段 量词](number-date.md)
   * [とする　となる](grammar/tosuru.md)
+  * [请求：くれる　ください　なさい　命令形](grammar/qingqiu.md)
 * [辅助资料](fu-zhu-zi-liao.md)
   * [日语阅读资料：lang-8 值得关注的人](fu-zhu-zi-liao/lang8.md)
   * [双语字幕日剧推荐](fu-zhu-zi-liao/dorama.md)
