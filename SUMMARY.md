@@ -20,7 +20,7 @@
   * [とする となる](grammar/tosuru.md)
   * [日语语序及听说读写练习](grammar/yuxu.md)
   * [日语通用名词的用法:こと　ところ　方](grammar/noun.md)
-  * [数字 日期 时间段 量词](number-date.md)
+  * [数字 日期 时间段 量词](grammar/number-date.md)
 * [基本表达](biaoda.md)
   * [If :と　ば　たら　なら](grammar/if.md)
   * [说明原因：ので　から](grammar/yuanyin.md)
