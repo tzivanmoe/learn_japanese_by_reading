@@ -13,7 +13,7 @@
   * [动词分类及活用](grammar/dongci.md)
   * [て形：构成日语框架的“万能接口”](grammar/te.md)
   * [日语授受动词：あげる　くれる　もらう](grammar/giving_receiving.md)
-  * [ます　です　](grammar/desumasu.md)
+  * [丁宁语：ます です　](grammar/desumasu.md)
   * [把句子名词化的函数：の](grammar/no.md)
   * [日语中的“打包员”：と](grammar/to.md)
   * [日语基本部件：なる する](grammar/naru_suru.md)
