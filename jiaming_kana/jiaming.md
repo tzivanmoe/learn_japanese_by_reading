@@ -105,14 +105,9 @@
 
 [**Keikichi Hirose & Nobuaki Minematsu Laboratory, the University of Tokyo**](http://link.zhihu.com/?target=http%3A//www.gavo.t.u-tokyo.ac.jp/)
 
-**        
-**
-
 ![](http://pic1.zhimg.com/v2-1fbacdf354e4859e8575fe14689e6e50_b.png)
 
-如图，声调高低都有标注，真人发音
-
-而且可以选择男生、女生的发音
+如图，声调高低都有标注，真人发音，而且可以选择男生、女生的发音。
 
 [jisho: Japanese Dictionary](http://jisho.org/)
 
