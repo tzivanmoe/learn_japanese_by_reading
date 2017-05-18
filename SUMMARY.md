@@ -22,7 +22,7 @@
   * [日语语序及听说读写练习](grammar/yuxu.md)
   * [数字 日期 时间段 量词](grammar/number-date.md)
 * [基本表达](biaoda.md)
-  *[日语表达时间轴上的动作](grammar/timeverb.md)
+  * [日语表达时间轴上的动作](grammar/timeverb.md)
   * [抓住日语这些尾巴：词干+尾巴](grammar/weiba.md)
   * [只此一家别无分店：日语中的cp](grammar/cp.md)
   * [If :と　ば　たら　なら](grammar/if.md)
