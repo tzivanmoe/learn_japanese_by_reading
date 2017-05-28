@@ -18,7 +18,7 @@
   * [日语中的“打包员”：と](grammar/to.md)
   * [日语基本部件：なる する](grammar/naru_suru.md)
   * [とする となる](grammar/tosuru.md)
-  *[日语通用名词的用法:こと　ところ　方](grammar/noun.md)
+  * [日语通用名词的用法:こと　ところ　方](grammar/noun.md)
   * [日语语序及听说读写练习](grammar/yuxu.md)
   * [数字 日期 时间段 量词](grammar/number-date.md)
 * [基本表达](biaoda.md)
