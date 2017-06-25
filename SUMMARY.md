@@ -3,6 +3,7 @@
 * [介绍](README.md)
 * [学习方法和工具](chapter1.md)
   * [没有计划没有鞭策的日语学习经历\]](chapter1/fangfa.md)
+  * [如何高效牢固地背日语单词](chapter1/word.md)
 * [假名与五十音图](jiaming_kana.md)
   * [3个月从零到N2，抛开应试教育的日语学习方法](jiaming_kana/jiaming.md)
   * [手把手教你写出一手好看的假名：你的假名也可以写活了](jiaming_kana/jiaming_shuxie.md)
